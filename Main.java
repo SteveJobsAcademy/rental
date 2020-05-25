@@ -1,7 +1,9 @@
 package retail;
 
+import java.io.IOException;
+
 public class Main {
-    public static void main(String args[]) {
+    public static void main(String args[]) throws IOException {
         RealEstate r = new RealEstate("Pippo");
         r.addApartment("Camilla", 500, 200);
         Apartment m = r.addApartment("Casa di Montalbano", 400, 2);

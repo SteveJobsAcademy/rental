@@ -1,0 +1,5 @@
+Casa a mare di Berlusconi#5000#300
+Casa a mare Villa Ingrid#4000#500
+Casa a mare Villa Ada#3000#100
+Casa di Montalbano Ada#300#5
+Quarto Appartamento#200.0#100.0
